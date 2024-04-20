@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x 1 James 197121 0 Apr 20 18:00 archive/
+-rw-r--r-- 1 James 197121 0 Apr 20 18:12 output.txt
+drwxr-xr-x 1 James 197121 0 Apr 20 18:10 projects/
